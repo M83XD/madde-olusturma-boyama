@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+ul > li:first-child{
+    color: royalblue;
+}
+ul > li:nth-child(2){
+    color: seagreen;
+}
+ul > li:last-child{
+    color: midnightblue;
+}
+ul > li:nth-child(4){
+    color: slateblue;
+}
+
+ul > li:nth-child(3){
+    color: maroon;
+}
